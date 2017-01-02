@@ -7,7 +7,7 @@ import cn.itcast.dubbo.pojo.User;
 import cn.itcast.dubbo.service.UserService;
 
 public class UserServiceImpl implements UserService {
-	private Long i = 0L;
+
     /**
      * 实现查询，这里做模拟实现，不做具体的数据库查询
      */
